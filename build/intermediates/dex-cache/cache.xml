@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gusta\Downloads\AndroidShell1\app\libs\t.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="50ab0797241117153a458ce33c1c3dd33a470218">
+        <dex dex="C:\Users\gusta\Downloads\AndroidShell1\app\build\intermediates\pre-dexed\debug\t-3ac740c60f780076fa9d6f42fffaf183870dc085.jar" />
+    </item>
+    <item
+        jar="C:\Users\gusta\Downloads\AndroidShell1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\gusta\Downloads\AndroidShell1\app\build\intermediates\pre-dexed\debug\classes-749df042d443241119af08b4aae3e1a334e725dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\gusta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\gusta\Downloads\AndroidShell1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-9921f88c0864ee06c7b3d5b6557b8b3916be3a41.jar" />
+    </item>
+    <item
+        jar="C:\Users\gusta\Downloads\AndroidShell1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\gusta\Downloads\AndroidShell1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-54aa08f51ad498455ba25394b9708237e4177293.jar" />
+    </item>
+
+</items>

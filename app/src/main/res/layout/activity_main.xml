@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".MainActivity"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="Processos"
+        android:maxLines = "40"
+        android:scrollbars = "vertical"
+        android:id="@+id/IT" />
+
+    <Button
+    android:layout_width="170dp"
+    android:layout_height="wrap_content"
+    android:id="@+id/btn"
+    android:text="Verificar"
+        android:layout_gravity="center_horizontal" />
+
+
+
+    <Button
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnDicas"
+        android:text="Dicas"
+
+        android:onClick="startSecondActivity"
+        android:layout_gravity="center_horizontal"
+        android:longClickable="false"
+        android:foregroundGravity="top" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/out"
+        android:textAlignment="textStart"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/permissao"
+        android:textAlignment="textStart" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+    </ListView>
+
+
+
+
+</LinearLayout>
